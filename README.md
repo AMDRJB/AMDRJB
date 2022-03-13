@@ -8,3 +8,4 @@
 AMDRJB/AMDRJB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -
+ধন্যবাদ![chart](https://user-images.githubusercontent.com/101527420/158079215-5cf5f550-41f9-4abf-ba4f-a023bc5ca0de.png)
